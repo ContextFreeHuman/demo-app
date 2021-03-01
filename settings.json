@@ -1,0 +1,6 @@
+{
+  "mongoConfig": {
+    "serverUrl": "mongodb://db-demo-app:27017/",
+    "database": "Rate_My_Course_DB"
+  }
+}
